@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=500&lines=Creating+Real+World+Projects;Learning+&+Building+Toward+Full-Stack;Problem+Solver;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=500&lines=Creating+Real+World+Projects;Problem+Solver;Tech+Enthusiast" />
 </div>
 
 ---
