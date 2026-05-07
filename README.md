@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nimako Samuel
 
-**`Frontend Developer|Building Real-World Projects|Learning Backend|Aspiring Full-Stack Engineer`**
+**`Frontend Developer|Aspiring Full-Stack Engineer|Building Real-World Projects|Learning Backend`**
 
 ---
 
